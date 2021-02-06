@@ -12,5 +12,5 @@ gh pr create
 
 ## Contributors
 *Add your name here!*
-
+- Jolene Ciccarone
 
